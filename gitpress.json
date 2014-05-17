@@ -9,19 +9,14 @@
         "\\.html?$"            : "html",
         ".*"                   : "text"        
     },
-    "title"  : "Akira's Blog",
-    "description" : "My Blog Description...",
+    "title"  : "盖瑞的技术博客",
+    "description" : "暂时没有什么可以描述的~",
     "comment"  : {"type":"disqus", "short_name":"gitpress"},
     "friends"  : [
         {
           "name"  : "github",
           "title"  : "github",
           "url"  : "http://github.com"          
-        },
-        {
-          "name"  : "gitpress",
-          "title"  : "gitpress",
-          "url"  : "http://gitpress.org"
         }
     ] 
 }
